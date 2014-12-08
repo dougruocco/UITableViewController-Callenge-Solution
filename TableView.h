@@ -1,5 +1,5 @@
 //
-//  RPViewController.h
+//  TableView.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Douglas Ruocco on 12/8/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RPViewController : UIViewController
+@interface TableView : UITableViewController
 
 @end
